@@ -1,4 +1,5 @@
 <!-- FRONT -->
+<!DOCTYPE HTML>
 
 PHARRELL WILLIAMS
 
